@@ -1,0 +1,16 @@
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\bin\Debug\SQL.Dapper.exe.config
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\bin\Debug\SQL.Dapper.exe
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\bin\Debug\SQL.Dapper.pdb
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\bin\Debug\Dapper.dll
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\bin\Debug\System.Data.SQLite.dll
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\bin\Debug\Dapper.xml
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\bin\Debug\System.Data.SQLite.xml
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\bin\Debug\System.Data.SQLite.dll.config
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\obj\Debug\SQL.Dapper.csprojAssemblyReference.cache
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\obj\Debug\SQL.Dapper.Form1.resources
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\obj\Debug\SQL.Dapper.Properties.Resources.resources
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\obj\Debug\SQL.Dapper.csproj.GenerateResource.cache
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\obj\Debug\SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\obj\Debug\SQL.Dapper.csproj.CopyComplete
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\obj\Debug\SQL.Dapper.exe
+D:\DEVELOPMENT\DapperTutorial\SQL.Dapper\obj\Debug\SQL.Dapper.pdb
